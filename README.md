@@ -14,3 +14,5 @@ The main function for Gaussian fitting and detecting colocalization is `fit_func
 `Colloc_3D_batch.m` can we used to execute `fit_func.m` on a whole directory of images.
 
 Cite: Watson, J.L. & Krüger, L.K. et al. Synthetic Par polarity induces cytoskeleton asymmetry in unpolarized mammalian cells. Cell, 2023
+
+[![DOI](https://zenodo.org/badge/673664551.svg)](https://zenodo.org/badge/latestdoi/673664551)
